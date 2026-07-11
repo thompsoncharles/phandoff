@@ -82,7 +82,7 @@ The report includes a manual paper trade checklist. A hypothetical trade is only
 
 The current paper observation candidate is a daily BTC strategy selected through anchored walk forward validation across market regimes.
 
-High level candidate summary:
+Candidate summary:
 
 | Field | Value |
 |---|---|
