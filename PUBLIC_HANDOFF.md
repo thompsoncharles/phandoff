@@ -2,7 +2,7 @@
 
 **Date:** 2026-07-05  
 **Project type:** College engineering / quantitative research project  
-**Development history:** Four major iterations over roughly eight months of off and on work  
+**Development history:** Four major iterations over roughly eight months 
 **Current state:** One Bitcoin strategy candidate promoted from backtesting into daily paper observation. Live trading is disabled.
 
 ---
@@ -37,7 +37,7 @@ Reconsideration requires:
 - at least 20 paper signals, or
 - at least 60 calendar days of observation
 
-Until one of those gates is met, the correct verdict is **KEEP OBSERVING**.
+Until one of those gates is met, the correct verdict is **keep observing**.
 
 ---
 
